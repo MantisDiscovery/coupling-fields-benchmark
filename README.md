@@ -4,7 +4,7 @@
 
 **Assay resolution governs the transfer of molecular dependence**
 
-[Paper page](https://sushaan-k.github.io/coupling-fields-benchmark/) |
+[Paper page](https://mantisdiscovery.github.io/coupling-fields-benchmark/) |
 [Paper](paper/assay-resolution/reader.pdf) |
 [Additional file 1](paper/assay-resolution/supplement.pdf) |
 [LaTeX source and build instructions](paper/assay-resolution/)
